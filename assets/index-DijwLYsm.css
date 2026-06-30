@@ -1,18 +1,18 @@
 @font-face {
   font-family: Thinman;
-  src: url(./wiki-weekly/fonts/thinman.ttf) format("truetype");
+  src: url(./fonts/thinman.ttf) format("truetype");
   font-display: swap;
 }
 
 @font-face {
   font-family: Tetrominoes;
-  src: url(./wiki-weekly/fonts/tetrominoes.ttf) format("truetype");
+  src: url(./fonts/tetrominoes.ttf) format("truetype");
   font-display: swap;
 }
 
 @font-face {
   font-family: Noseblood;
-  src: url(./wiki-weekly/fonts/noseblood.otf) format("opentype");
+  src: url(./fonts/noseblood.otf) format("opentype");
   font-display: swap;
 }
 
