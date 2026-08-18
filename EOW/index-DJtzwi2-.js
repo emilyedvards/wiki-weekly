@@ -47,7 +47,7 @@
       </header>
       ${e}
       <footer>
-        <span class="delay-note">*Updates every Monday</span>
+        <span class="delay-note">*Updates every Tuesday</span>
         <span class="footer-center">
           <a class="footer-link" href="/">TWOW</a>
           ${t}
